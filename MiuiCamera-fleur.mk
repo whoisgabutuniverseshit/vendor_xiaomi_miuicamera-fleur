@@ -17,4 +17,4 @@ PRODUCT_SYSTEM_EXT_PROPERTIES += \
 
 # Soong
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/xiaomi/miuicamera-pissarro
+    vendor/xiaomi/miuicamera-fleur
